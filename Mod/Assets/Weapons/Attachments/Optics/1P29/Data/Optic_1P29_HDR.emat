@@ -1,0 +1,7 @@
+HDREffect : "{3BD4127D635A335E}Assets/Weapons/Attachments/Optics/1P29/Data/Optic_1P29_HDR.emat" {
+ OverlayFactor 0.4
+ OverlayColor 0.019 0.017 0.005 0
+ Vignette 0.75
+ VignetteSharpness 0.422
+ ReticleMove 0.75
+}

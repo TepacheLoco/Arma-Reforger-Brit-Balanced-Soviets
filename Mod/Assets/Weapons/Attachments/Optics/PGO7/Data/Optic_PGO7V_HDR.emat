@@ -1,0 +1,5 @@
+HDREffect : "{E8738368ECB4F8FE}Assets/Weapons/Attachments/Optics/PGO7/Data/Optic_PGO7V_HDR.emat" {
+ OverlayFactor 0.345
+ OverlayColor 0.03 0.027 0.013 0
+ ReticleMove 0.728
+}

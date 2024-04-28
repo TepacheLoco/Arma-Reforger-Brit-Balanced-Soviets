@@ -1,0 +1,8 @@
+GameProject {
+ ID "BritBalancedSoviets"
+ GUID "610EA8318F2E6C62"
+ TITLE "Brit Balanced Soviets"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

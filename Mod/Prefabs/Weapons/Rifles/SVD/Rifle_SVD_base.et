@@ -1,0 +1,15 @@
+GenericEntity : "{F9E6107C47C1B088}Prefabs/Weapons/Core/LongRangeRifle_Base.et" {
+ ID "525494E72B1E90FD"
+ components {
+  SCR_WeaponAttachmentsStorageComponent "{51F080D5CE45A1A2}" {
+   Attributes SCR_ItemAttributeCollection "{51F080D5C64F12C5}" {
+    CustomAttributes {
+     CharacterModifierAttributes "{563E0E51FE60CD4D}" {
+      ADSSpeedLimit 0.25
+      SpeedLimitHighready 1.7
+     }
+    }
+   }
+  }
+ }
+}

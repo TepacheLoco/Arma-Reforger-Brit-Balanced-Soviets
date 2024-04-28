@@ -1,0 +1,7 @@
+HDREffect : "{958809B0DE47E9BF}Assets/Weapons/Attachments/Optics/PSO1/Data/Optic_PSO1_HDR.emat" {
+ OverlayFactor 0.255
+ OverlayColor 0.025 0.021 0.009 0
+ Vignette 0.72
+ VignetteSharpness 0.231
+ ReticleMove 0.701
+}
